@@ -74,13 +74,13 @@
 <!--            </includes>-->
 <!--            <outputDirectory>datax</outputDirectory>-->
 <!--        </fileSet>-->
-<!--        <fileSet>-->
-<!--            <directory>rdbmsreader/target/datax/</directory>-->
-<!--            <includes>-->
-<!--                <include>**/*.*</include>-->
-<!--            </includes>-->
-<!--            <outputDirectory>datax</outputDirectory>-->
-<!--        </fileSet>-->
+        <fileSet>
+            <directory>rdbmsreader/target/datax/</directory>
+            <includes>
+                <include>**/*.*</include>
+            </includes>
+            <outputDirectory>datax</outputDirectory>
+        </fileSet>
 
         <fileSet>
             <directory>odpsreader/target/datax/</directory>
@@ -350,13 +350,13 @@
 <!--            </includes>-->
 <!--            <outputDirectory>datax</outputDirectory>-->
 <!--        </fileSet>-->
-<!--        <fileSet>-->
-<!--            <directory>rdbmswriter/target/datax/</directory>-->
-<!--            <includes>-->
-<!--                <include>**/*.*</include>-->
-<!--            </includes>-->
-<!--            <outputDirectory>datax</outputDirectory>-->
-<!--        </fileSet>-->
+        <fileSet>
+            <directory>rdbmswriter/target/datax/</directory>
+            <includes>
+                <include>**/*.*</include>
+            </includes>
+            <outputDirectory>datax</outputDirectory>
+        </fileSet>
 <!--        <fileSet>-->
 <!--            <directory>ocswriter/target/datax/</directory>-->
 <!--            <includes>-->

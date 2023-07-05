@@ -55,7 +55,7 @@
         <module>oraclereader</module>
 <!--        <module>cassandrareader</module>-->
         <module>oceanbasev10reader</module>
-<!--        <module>rdbmsreader</module>-->
+        <module>rdbmsreader</module>
 
         <module>odpsreader</module>
 <!--        <module>otsreader</module>-->
@@ -93,8 +93,8 @@
 <!--        <module>oceanbasev10writer</module>-->
 <!--        <module>adbpgwriter</module>-->
 <!--        <module>hologresjdbcwriter</module>-->
-<!--        <module>rdbmswriter</module>-->
-
+        <module>rdbmswriter</module>
+<!---->
 
         <module>odpswriter</module>
         <module>osswriter</module>
